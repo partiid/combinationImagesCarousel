@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>combImagesCarousel</name>
+	<displayName><![CDATA[Combination images carousel]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[This module allows you to display every combination main image on the product miniature]]></description>
+	<author><![CDATA[Marek Łysiak]]></author>
+	<tab><![CDATA[others]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

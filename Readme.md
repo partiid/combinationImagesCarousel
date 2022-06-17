@@ -1,5 +1,5 @@
 # Combination images carousel
-this prestashop module allows you to display your product combinations cover on a 
+this prestashop module allows you to display your product combinations cover on your product miniature in your store
 
 # Dependencies 
 - Uikit https://getuikit.com/
